@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x 1 Administrator 197121   0 二月   23 16:58 ./
+drwxr-xr-x 1 Administrator 197121   0 二月   23 16:57 ../
+drwxr-xr-x 1 Administrator 197121   0 二月   23 16:57 .git/
+-rw-r--r-- 1 Administrator 197121 142 二月   23 16:23 file1.txt
+-rw-r--r-- 1 Administrator 197121 210 二月   23 16:23 file2.txt
+-rw-r--r-- 1 Administrator 197121 276 二月   23 16:24 file3.txt
+-rw-r--r-- 1 Administrator 197121   0 二月   23 16:58 LICENSE
+-rw-r--r-- 1 Administrator 197121 131 二月   23 16:57 readme.txt
